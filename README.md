@@ -7,3 +7,5 @@ This is a sample readme file
 Just some updates
 This is conflict
 I hope this isn't much of a problem
+
+Just something going on
